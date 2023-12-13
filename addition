@@ -2,5 +2,6 @@
 echo "enter n1 and n2"
 read n1 n2
 echo " $n1+$n2"
-
+read n3
+echo "n3"
 
